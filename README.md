@@ -9,7 +9,11 @@ Nouvelle version :
                                               ![image](https://user-images.githubusercontent.com/99037050/153257656-d97de531-ce99-4b24-995d-9f6c7e9b8687.png)
 
 
-Lancer le fichier run pour installer les modules nécessaires
+-Lancer le fichier run pour installer les modules nécessaires
+
+
+
+
 
 
 -Vidéos pour expliquer comment cela fonctionne : 
