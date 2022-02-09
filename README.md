@@ -6,18 +6,15 @@ Nouvelle version :
 
 
 -Ajout de la fonctionnalité random sur les embeds
-![image](https://cdn.discordapp.com/attachments/939984884221493298/941024030780162109/unknown.png)
+![image](![image](https://user-images.githubusercontent.com/99037050/153257656-d97de531-ce99-4b24-995d-9f6c7e9b8687.png)
+)
 
 
 
 
-Vidéos pour expliquer comment cela fonctionne : 
+-Vidéos pour expliquer comment cela fonctionne : 
 https://www.youtube.com/watch?v=PM7ZGmpvm8c
 
 
 
-N'oubliez pas d'activer ceci sur discord developers
 
-
-
-![image](https://user-images.githubusercontent.com/99037050/152653847-76c92f54-acde-4641-b89d-35d4876fb93d.png)
